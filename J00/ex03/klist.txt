@@ -1,0 +1,8 @@
+Credentials cache: API:D1064D9A-ADD8-4E9A-8205-9BD42BEA1840
+        Principal: hwolff@42.FR
+
+  Issued                Expires               Principal
+Feb  5 14:40:16 2018  Feb 12 14:40:16 2018  krbtgt/42.FR@42.FR
+Feb  5 14:40:17 2018  Feb 12 14:40:16 2018  ldap/ldap-proxy.42.fr@42.FR
+Feb  5 14:40:17 2018  Feb 12 14:40:16 2018  HTTP/student-storage-1.42.fr@42.FR
+Feb  5 15:36:01 2018  Feb 12 14:40:16 2018  host/vgs-fn1.42.fr@42.FR
